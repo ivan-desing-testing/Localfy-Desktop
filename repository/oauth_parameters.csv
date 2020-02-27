@@ -1,0 +1,5 @@
+username_id,78hoy1q1ebukbnzows3ckj9jz
+scopes,playlist-modify-public playlist-read-private playlist-modify-private playlist-read-collaborative user-read-private user-library-read user-library-modify
+client_id,e92bd9a943d244119df6bae8c3d8103a
+client_secret,b8e74b55f8e3497dbe95f25569fb525f
+redirect_uri,https://localhost:8000
